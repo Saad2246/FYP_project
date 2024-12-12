@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952706817462",
+    "project_id": "fyp-flutter-5064f",
+    "storage_bucket": "fyp-flutter-5064f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952706817462:android:283f9c239b7e1db1f6f517",
+        "android_client_info": {
+          "package_name": "com.example.fawadfypflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952706817462-ka9rqnradm5g4uk03d3kveerbne84cui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRPHzf4_4BCoP-FCNetqxsPjZcraAXtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952706817462-ka9rqnradm5g4uk03d3kveerbne84cui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
